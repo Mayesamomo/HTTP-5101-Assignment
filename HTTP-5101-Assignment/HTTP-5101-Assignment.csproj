@@ -158,6 +158,7 @@
     <Compile Include="Controllers\AdditionController.cs" />
     <Compile Include="Controllers\GreetingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\HostingController.cs" />
     <Compile Include="Controllers\MathController.cs" />
     <Compile Include="Controllers\SquareController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
